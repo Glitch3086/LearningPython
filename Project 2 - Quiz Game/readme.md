@@ -1,4 +1,6 @@
 # The Quiz Game
+## Status: 🚧Currently Working
+---
 
 The second project I'm working on is a quiz game in Python, which was a great way to challenge my knowledge of programming concepts while also improving my problem-solving skills. This project is similar to my previous Rock Paper Scissors game because it still uses simmilar python concepts but I build upon those existing concepts.
 
