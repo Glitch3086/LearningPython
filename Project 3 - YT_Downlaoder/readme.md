@@ -1,6 +1,6 @@
 # YouTube Downloader
 ## Status: ✅
----
+
 ## Disclamier !?
 - First of all, I would like to thank the sponsor of this script, the beautiful ChatGPT, for creating this masterpiece.
 - The script does indeed work but be aware that as of now, due to YouTube guidelines, some YouTube might not download or the scipt may not be able to retirive the title.
