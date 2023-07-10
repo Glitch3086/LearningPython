@@ -1,1 +1,2 @@
-#Will start writign the code here tommorow
+#Should start working on it soon, now that I have time
+score = 0
