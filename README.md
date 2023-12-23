@@ -1,5 +1,5 @@
 # LearningPython
-## Status: 📈Ongoing
+## Status: 📈Ongoing & currenlty on hold due to University.
 ---
 ### A project containing other little projects I made while learning python.
 
